@@ -1,0 +1,16 @@
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
