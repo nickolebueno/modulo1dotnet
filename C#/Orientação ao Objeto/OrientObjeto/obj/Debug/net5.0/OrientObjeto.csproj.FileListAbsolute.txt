@@ -1,0 +1,16 @@
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\bin\Debug\net5.0\OrientObjeto.exe
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\bin\Debug\net5.0\OrientObjeto.deps.json
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\bin\Debug\net5.0\OrientObjeto.runtimeconfig.json
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\bin\Debug\net5.0\OrientObjeto.runtimeconfig.dev.json
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\bin\Debug\net5.0\OrientObjeto.dll
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\bin\Debug\net5.0\OrientObjeto.pdb
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.csproj.AssemblyReference.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.AssemblyInfoInputs.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.AssemblyInfo.cs
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.dll
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\refint\OrientObjeto.dll
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.pdb
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\OrientObjeto.genruntimeconfig.cache
+C:\Users\Nickole\Desktop\GENERATION .NET\5. Atividades\C#\Orientação ao Objeto\OrientObjeto\obj\Debug\net5.0\ref\OrientObjeto.dll
